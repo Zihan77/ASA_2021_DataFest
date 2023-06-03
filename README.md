@@ -1,4 +1,4 @@
-# ASA_2021_DataFest
+# ASA 2021 DataFest Modeling Challenge
 
 Analyzed prescription drug misuse in Germany.
 
